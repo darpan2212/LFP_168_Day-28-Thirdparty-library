@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rajeev Kumar Singh",
+    "email": "rajeevs@example.com",
+    "phone": "+91-9999999908",
+    "country": "India"
+  },
+  {
+    "name": "Sachin Tendulkar",
+    "email": "sachin@example.com",
+    "phone": "+91-9999999816",
+    "country": "India"
+  },
+  {
+    "name": "Barak Obama",
+    "email": "barak.obama@example.com",
+    "phone": "+1-1111111109",
+    "country": "United States"
+  },
+  {
+    "name": "Donald Trump",
+    "email": "donald.trump@example.com",
+    "phone": "+1-2222222220",
+    "country": "United States"
+  }
+]

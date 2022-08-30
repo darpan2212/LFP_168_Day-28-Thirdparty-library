@@ -4,6 +4,10 @@ import com.opencsv.bean.CsvBindByName;
 
 public class UserModel {
 
+	public UserModel() {
+		
+	}
+	
 	public UserModel(String name, String email, String phone, String country) {
 		this.name = name;
 		this.email = email;
